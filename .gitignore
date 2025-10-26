@@ -1,0 +1,10 @@
+# ignore huge files that exceed GitHub 100MB
+data/mooc/processed/users_meta.json
+data/mooc/raw/train_data_transformed_01.csv
+data/mooc/processed/train_data_transformed.csv
+data/mooc/raw/test_data_transformed.csv
+
+# optional noise
+*.log
+*.tmp
+.DS_Store
